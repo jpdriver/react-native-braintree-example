@@ -1,0 +1,3 @@
+rootProject.name = 'MyBraintreeDemo'
+
+include ':app'
